@@ -1,5 +1,7 @@
 This repo contains the contributions related to E. Molteni's MDMC internship work 
 on adding functionalities to some NOMAD parsers for electronic structure codes.
+See also MDMC master thesis "Extending NOMAD schemas for the UMIL NFFA-DI Theory &
+Simulation Installation, with a focus on the Yambo code", DOI: 10.5281/zenodo.15691481
 
 # Note: 
 The NOMAD parsers named parser.py mentioned below, part of NOMAD electronic-parsers, 
