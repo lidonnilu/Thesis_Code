@@ -1,0 +1,4 @@
+Calibration parameters:
+ fact_D_Si 	--> [1.10546, 0.276365, 44.2184]
+ fact_D_C 	--> [200.0, 2.5, 400.0]
+ scalef 	--> 0.43

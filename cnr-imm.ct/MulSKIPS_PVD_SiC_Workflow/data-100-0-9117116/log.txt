@@ -1,0 +1,525 @@
+ KMC box size:           60          60         960
+            ***** Simulating PVD or LA *****
+ Crystal species (NCrystal=           2 ) --> Z:          14           6
+ ECCOMIIIIII
+ KMC Super-Lattice parameter (ang):   0.36333333333333301     
+ Exit strategy: Time
+ Total simulation time in seconds:    9.8441811846690000E-002
+ Output frequency in seconds:    1.9688362369340000E-003
+ IDUM     9117116
+ SaveFinalState flag is not "T": checkpoint file will  not be written.
+ SaveCoo flag is not "T": Coor file not stored
+ maxElines          18
+ numParticelle=      500000 Levels =          20 , SizeTree =     1048575
+ Atoms,Voids,AdAtoms         750           0         100
+ I00000000
+           0
+ NumAtWrong:            0
+ SUM(CountCrystal)         166
+ CountCrystal          98          68           0
+ CountCrystalOld           0           0           0
+ diff   98.000000000000000        68.000000000000000        0.0000000000000000     
+ xGesolid  0.59036144578313254       0.40963855421686746        0.0000000000000000     
+ I00000001
+           0
+ NumAtWrong:            2
+ Iter, Time, Site                44321   1.9688849810509425E-003          33          57          63
+ NatNvoidNad         890           0         153
+ SUM(CountCrystal)         338
+ CountCrystal         181         157           0
+ CountCrystalOld          98          68           0
+ diff   83.000000000000000        89.000000000000000        0.0000000000000000     
+ xGesolid  0.48255813953488375       0.51744186046511631        0.0000000000000000     
+ I00000002
+           0
+ NumAtWrong:            2
+ Iter, Time, Site                94067   3.9377069795100625E-003          57          39          69
+ NatNvoidNad        1068           0         139
+ SUM(CountCrystal)         565
+ CountCrystal         298         267           0
+ CountCrystalOld         181         157           0
+ diff   117.00000000000000        110.00000000000000        0.0000000000000000     
+ xGesolid  0.51541850220264318       0.48458149779735682        0.0000000000000000     
+ I00000003
+           0
+ NumAtWrong:            3
+ Iter, Time, Site               142838   5.9065089815209162E-003           0          12          84
+ NatNvoidNad        1287           0         161
+ SUM(CountCrystal)         754
+ CountCrystal         391         363           0
+ CountCrystalOld         298         267           0
+ diff   93.000000000000000        96.000000000000000        0.0000000000000000     
+ xGesolid  0.49206349206349204       0.50793650793650791        0.0000000000000000     
+ I00000004
+           0
+ NumAtWrong:            0
+ Iter, Time, Site               190521   7.8753563987659456E-003          27          27          99
+ NatNvoidNad        1480           0         147
+ SUM(CountCrystal)        1017
+ CountCrystal         524         493           0
+ CountCrystalOld         391         363           0
+ diff   133.00000000000000        130.00000000000000        0.0000000000000000     
+ xGesolid  0.50570342205323193       0.49429657794676807        0.0000000000000000     
+ I00000005
+           0
+ NumAtWrong:            0
+ Iter, Time, Site               240090   9.8442128990535050E-003          12          24         108
+ NatNvoidNad        1741           0         155
+ SUM(CountCrystal)        1198
+ CountCrystal         617         581           0
+ CountCrystalOld         524         493           0
+ diff   93.000000000000000        88.000000000000000        0.0000000000000000     
+ xGesolid  0.51381215469613262       0.48618784530386738        0.0000000000000000     
+ I00000006
+           0
+ NumAtWrong:            2
+ Iter, Time, Site               288557   1.1813103612088035E-002           0           0         120
+ NatNvoidNad        1923           0         145
+ SUM(CountCrystal)        1392
+ CountCrystal         716         676           0
+ CountCrystalOld         617         581           0
+ diff   99.000000000000000        95.000000000000000        0.0000000000000000     
+ xGesolid  0.51030927835051543       0.48969072164948452        0.0000000000000000     
+ I00000007
+           0
+ NumAtWrong:            3
+ Iter, Time, Site               338681   1.3781904224927364E-002          57          57         135
+ NatNvoidNad        2119           0         147
+ SUM(CountCrystal)        1612
+ CountCrystal         830         782           0
+ CountCrystalOld         716         676           0
+ diff   114.00000000000000        106.00000000000000        0.0000000000000000     
+ xGesolid  0.51818181818181819       0.48181818181818181        0.0000000000000000     
+ I00000008
+           0
+ NumAtWrong:            2
+ Iter, Time, Site               381523   1.5750748538105801E-002          42           0         150
+ NatNvoidNad        2333           1         160
+ SUM(CountCrystal)        1832
+ CountCrystal         934         898           0
+ CountCrystalOld         830         782           0
+ diff   104.00000000000000        116.00000000000000        0.0000000000000000     
+ xGesolid  0.47272727272727272       0.52727272727272723        0.0000000000000000     
+ I00000009
+           0
+ NumAtWrong:            1
+ Iter, Time, Site               431981   1.7719553489619247E-002          42           6         156
+ NatNvoidNad        2555           1         146
+ SUM(CountCrystal)        2024
+ CountCrystal        1031         993           0
+ CountCrystalOld         934         898           0
+ diff   97.000000000000000        95.000000000000000        0.0000000000000000     
+ xGesolid  0.50520833333333337       0.49479166666666669        0.0000000000000000     
+ I00000010
+           0
+ NumAtWrong:            4
+ Iter, Time, Site               476139   1.9688405888110733E-002          27          51         171
+ NatNvoidNad        2745           1         156
+ SUM(CountCrystal)        2237
+ CountCrystal        1137        1100           0
+ CountCrystalOld        1031         993           0
+ diff   106.00000000000000        107.00000000000000        0.0000000000000000     
+ xGesolid  0.49765258215962443       0.50234741784037562        0.0000000000000000     
+ I00000011
+           0
+ NumAtWrong:            5
+ Iter, Time, Site               522554   2.1657202680474226E-002          39           3         183
+ NatNvoidNad        2958           1         154
+ SUM(CountCrystal)        2416
+ CountCrystal        1227        1189           0
+ CountCrystalOld        1137        1100           0
+ diff   90.000000000000000        89.000000000000000        0.0000000000000000     
+ xGesolid  0.50279329608938550       0.49720670391061450        0.0000000000000000     
+ I00000012
+           0
+ NumAtWrong:            0
+ Iter, Time, Site               570599   2.3626097418380520E-002          24          42         198
+ NatNvoidNad        3136           1         153
+ SUM(CountCrystal)        2629
+ CountCrystal        1334        1295           0
+ CountCrystalOld        1227        1189           0
+ diff   107.00000000000000        106.00000000000000        0.0000000000000000     
+ xGesolid  0.50234741784037562       0.49765258215962443        0.0000000000000000     
+ I00000013
+           0
+ NumAtWrong:            6
+ Iter, Time, Site               617612   2.5594901735204567E-002          18          24         210
+ NatNvoidNad        3356           1         144
+ SUM(CountCrystal)        2866
+ CountCrystal        1456        1410           0
+ CountCrystalOld        1334        1295           0
+ diff   122.00000000000000        115.00000000000000        0.0000000000000000     
+ xGesolid  0.51476793248945152       0.48523206751054854        0.0000000000000000     
+ I00000014
+           0
+ NumAtWrong:            9
+ Iter, Time, Site               667289   2.7563751160209798E-002          12           0         228
+ NatNvoidNad        3577           1         170
+ SUM(CountCrystal)        3095
+ CountCrystal        1570        1525           0
+ CountCrystalOld        1456        1410           0
+ diff   114.00000000000000        115.00000000000000        0.0000000000000000     
+ xGesolid  0.49781659388646288       0.50218340611353707        0.0000000000000000     
+ I00000015
+           0
+ NumAtWrong:            6
+ Iter, Time, Site               721874   2.9532588470602535E-002          15          33         237
+ NatNvoidNad        3815           1         156
+ SUM(CountCrystal)        3340
+ CountCrystal        1695        1645           0
+ CountCrystalOld        1570        1525           0
+ diff   125.00000000000000        120.00000000000000        0.0000000000000000     
+ xGesolid  0.51020408163265307       0.48979591836734693        0.0000000000000000     
+ I00000016
+           0
+ NumAtWrong:           10
+ Iter, Time, Site               770203   3.1501444471417089E-002          18           6         252
+ NatNvoidNad        4058           1         161
+ SUM(CountCrystal)        3527
+ CountCrystal        1786        1741           0
+ CountCrystalOld        1695        1645           0
+ diff   91.000000000000000        96.000000000000000        0.0000000000000000     
+ xGesolid  0.48663101604278075       0.51336898395721930        0.0000000000000000     
+ I00000017
+           0
+ NumAtWrong:            4
+ Iter, Time, Site               816062   3.3470238791446789E-002          45          27         261
+ NatNvoidNad        4249           1         153
+ SUM(CountCrystal)        3738
+ CountCrystal        1894        1844           0
+ CountCrystalOld        1786        1741           0
+ diff   108.00000000000000        103.00000000000000        0.0000000000000000     
+ xGesolid  0.51184834123222744       0.48815165876777250        0.0000000000000000     
+ I00000018
+           0
+ NumAtWrong:            5
+ Iter, Time, Site               867907   3.5439074611699192E-002          54          30         276
+ NatNvoidNad        4455           1         168
+ SUM(CountCrystal)        3971
+ CountCrystal        2008        1963           0
+ CountCrystalOld        1894        1844           0
+ diff   114.00000000000000        119.00000000000000        0.0000000000000000     
+ xGesolid  0.48927038626609443       0.51072961373390557        0.0000000000000000     
+ I00000019
+           0
+ NumAtWrong:            2
+ Iter, Time, Site               923152   3.7407895185835177E-002          18          18         288
+ NatNvoidNad        4690           1         157
+ SUM(CountCrystal)        4141
+ CountCrystal        2096        2045           0
+ CountCrystalOld        2008        1963           0
+ diff   88.000000000000000        82.000000000000000        0.0000000000000000     
+ xGesolid  0.51764705882352946       0.48235294117647060        0.0000000000000000     
+ I00000020
+           0
+ NumAtWrong:            6
+ Iter, Time, Site               969472   3.9376794564331685E-002          24          12         300
+ NatNvoidNad        4864           1         152
+ SUM(CountCrystal)        4320
+ CountCrystal        2183        2137           0
+ CountCrystalOld        2096        2045           0
+ diff   87.000000000000000        92.000000000000000        0.0000000000000000     
+ xGesolid  0.48603351955307261       0.51396648044692739        0.0000000000000000     
+ I00000021
+           0
+ NumAtWrong:            3
+ Iter, Time, Site              1020327   4.1345593995416798E-002          51          57         309
+ NatNvoidNad        5040           1         156
+ SUM(CountCrystal)        4516
+ CountCrystal        2281        2235           0
+ CountCrystalOld        2183        2137           0
+ diff   98.000000000000000        98.000000000000000        0.0000000000000000     
+ xGesolid  0.50000000000000000       0.50000000000000000        0.0000000000000000     
+ I00000022
+           0
+ NumAtWrong:            3
+ Iter, Time, Site              1067173   4.3314470666688483E-002          48          42         318
+ NatNvoidNad        5239           1         150
+ SUM(CountCrystal)        4697
+ CountCrystal        2367        2330           0
+ CountCrystalOld        2281        2235           0
+ diff   86.000000000000000        95.000000000000000        0.0000000000000000     
+ xGesolid  0.47513812154696133       0.52486187845303867        0.0000000000000000     
+ I00000023
+           0
+ NumAtWrong:            3
+ Iter, Time, Site              1116614   4.5283280953383832E-002          33          21         327
+ NatNvoidNad        5418           1         152
+ SUM(CountCrystal)        4932
+ CountCrystal        2487        2445           0
+ CountCrystalOld        2367        2330           0
+ diff   120.00000000000000        115.00000000000000        0.0000000000000000     
+ xGesolid  0.51063829787234039       0.48936170212765956        0.0000000000000000     
+ I00000024
+           0
+ NumAtWrong:            3
+ Iter, Time, Site              1172291   4.7252096166188425E-002          12          54         342
+ NatNvoidNad        5657           1         141
+ SUM(CountCrystal)        5167
+ CountCrystal        2608        2559           0
+ CountCrystalOld        2487        2445           0
+ diff   121.00000000000000        114.00000000000000        0.0000000000000000     
+ xGesolid  0.51489361702127656       0.48510638297872338        0.0000000000000000     
+ I00000025
+           0
+ NumAtWrong:            9
+ Iter, Time, Site              1220646   4.9220974753602001E-002          42          18         360
+ NatNvoidNad        5885           1         157
+ SUM(CountCrystal)        5334
+ CountCrystal        2693        2641           0
+ CountCrystalOld        2608        2559           0
+ diff   85.000000000000000        82.000000000000000        0.0000000000000000     
+ xGesolid  0.50898203592814373       0.49101796407185627        0.0000000000000000     
+ I00000026
+           0
+ NumAtWrong:           10
+ Iter, Time, Site              1267627   5.1189774378658542E-002           9          51         369
+ NatNvoidNad        6053           1         152
+ SUM(CountCrystal)        5507
+ CountCrystal        2778        2729           0
+ CountCrystalOld        2693        2641           0
+ diff   85.000000000000000        88.000000000000000        0.0000000000000000     
+ xGesolid  0.49132947976878610       0.50867052023121384        0.0000000000000000     
+ I00000027
+           0
+ NumAtWrong:           11
+ Iter, Time, Site              1318146   5.3158588251041125E-002          57          15         381
+ NatNvoidNad        6225           1         162
+ SUM(CountCrystal)        5655
+ CountCrystal        2849        2806           0
+ CountCrystalOld        2778        2729           0
+ diff   71.000000000000000        77.000000000000000        0.0000000000000000     
+ xGesolid  0.47972972972972971       0.52027027027027029        0.0000000000000000     
+ I00000028
+           0
+ NumAtWrong:           10
+ Iter, Time, Site              1368056   5.5127462111009648E-002          45           9         387
+ NatNvoidNad        6379           1         146
+ SUM(CountCrystal)        5882
+ CountCrystal        2968        2914           0
+ CountCrystalOld        2849        2806           0
+ diff   119.00000000000000        108.00000000000000        0.0000000000000000     
+ xGesolid  0.52422907488986781       0.47577092511013214        0.0000000000000000     
+ I00000029
+           0
+ NumAtWrong:           13
+ Iter, Time, Site              1419493   5.7096304295435434E-002           6          12         402
+ NatNvoidNad        6604           1         161
+ SUM(CountCrystal)        6067
+ CountCrystal        3057        3010           0
+ CountCrystalOld        2968        2914           0
+ diff   89.000000000000000        96.000000000000000        0.0000000000000000     
+ xGesolid  0.48108108108108111       0.51891891891891895        0.0000000000000000     
+ I00000030
+           0
+ NumAtWrong:           10
+ Iter, Time, Site              1469850   5.9065161752842849E-002          42          24         414
+ NatNvoidNad        6786           1         153
+ SUM(CountCrystal)        6220
+ CountCrystal        3132        3088           0
+ CountCrystalOld        3057        3010           0
+ diff   75.000000000000000        78.000000000000000        0.0000000000000000     
+ xGesolid  0.49019607843137253       0.50980392156862742        0.0000000000000000     
+ I00000031
+           0
+ NumAtWrong:            6
+ Iter, Time, Site              1520779   6.1033959965309782E-002          36          54         426
+ NatNvoidNad        6935           1         161
+ SUM(CountCrystal)        6450
+ CountCrystal        3252        3198           0
+ CountCrystalOld        3132        3088           0
+ diff   120.00000000000000        110.00000000000000        0.0000000000000000     
+ xGesolid  0.52173913043478259       0.47826086956521741        0.0000000000000000     
+ I00000032
+           0
+ NumAtWrong:           14
+ Iter, Time, Site              1569741   6.3002791260413527E-002          51          39         435
+ NatNvoidNad        7172           1         149
+ SUM(CountCrystal)        6682
+ CountCrystal        3368        3314           0
+ CountCrystalOld        3252        3198           0
+ diff   116.00000000000000        116.00000000000000        0.0000000000000000     
+ xGesolid  0.50000000000000000       0.50000000000000000        0.0000000000000000     
+ I00000033
+           0
+ NumAtWrong:           13
+ Iter, Time, Site              1624933   6.4971598007790218E-002          33           9         447
+ NatNvoidNad        7397           1         168
+ SUM(CountCrystal)        6895
+ CountCrystal        3473        3422           0
+ CountCrystalOld        3368        3314           0
+ diff   105.00000000000000        108.00000000000000        0.0000000000000000     
+ xGesolid  0.49295774647887325       0.50704225352112675        0.0000000000000000     
+ I00000034
+           0
+ NumAtWrong:           14
+ Iter, Time, Site              1675788   6.6940499964803321E-002           6          36         462
+ NatNvoidNad        7610           1         167
+ SUM(CountCrystal)        7121
+ CountCrystal        3592        3529           0
+ CountCrystalOld        3473        3422           0
+ diff   119.00000000000000        107.00000000000000        0.0000000000000000     
+ xGesolid  0.52654867256637172       0.47345132743362833        0.0000000000000000     
+ I00000035
+           0
+ NumAtWrong:           13
+ Iter, Time, Site              1725192   6.8909311944616122E-002          27           9         477
+ NatNvoidNad        7843           1         151
+ SUM(CountCrystal)        7322
+ CountCrystal        3688        3634           0
+ CountCrystalOld        3592        3529           0
+ diff   96.000000000000000        105.00000000000000        0.0000000000000000     
+ xGesolid  0.47761194029850745       0.52238805970149249        0.0000000000000000     
+ I00000036
+           0
+ NumAtWrong:            9
+ Iter, Time, Site              1775063   7.0878138245953362E-002          12          24         492
+ NatNvoidNad        8044           1         153
+ SUM(CountCrystal)        7565
+ CountCrystal        3810        3755           0
+ CountCrystalOld        3688        3634           0
+ diff   122.00000000000000        121.00000000000000        0.0000000000000000     
+ xGesolid  0.50205761316872433       0.49794238683127573        0.0000000000000000     
+ I00000037
+           0
+ NumAtWrong:            7
+ Iter, Time, Site              1826214   7.2847003152798878E-002           6          12         498
+ NatNvoidNad        8284           1         159
+ SUM(CountCrystal)        7821
+ CountCrystal        3938        3883           0
+ CountCrystalOld        3810        3755           0
+ diff   128.00000000000000        128.00000000000000        0.0000000000000000     
+ xGesolid  0.50000000000000000       0.50000000000000000        0.0000000000000000     
+ I00000038
+           0
+ NumAtWrong:           11
+ Iter, Time, Site              1880470   7.4815850471499121E-002          39           3         519
+ NatNvoidNad        8547           1         147
+ SUM(CountCrystal)        8033
+ CountCrystal        4044        3989           0
+ CountCrystalOld        3938        3883           0
+ diff   106.00000000000000        106.00000000000000        0.0000000000000000     
+ xGesolid  0.50000000000000000       0.50000000000000000        0.0000000000000000     
+ I00000039
+           0
+ NumAtWrong:            7
+ Iter, Time, Site              1933030   7.6784656826689238E-002          27           3         531
+ NatNvoidNad        8747           1         171
+ SUM(CountCrystal)        8218
+ CountCrystal        4140        4078           0
+ CountCrystalOld        4044        3989           0
+ diff   96.000000000000000        89.000000000000000        0.0000000000000000     
+ xGesolid  0.51891891891891895       0.48108108108108111        0.0000000000000000     
+ I00000040
+           0
+ NumAtWrong:           10
+ Iter, Time, Site              1981813   7.8753466623116719E-002           3          21         537
+ NatNvoidNad        8934           1         164
+ SUM(CountCrystal)        8491
+ CountCrystal        4275        4216           0
+ CountCrystalOld        4140        4078           0
+ diff   135.00000000000000        138.00000000000000        0.0000000000000000     
+ xGesolid  0.49450549450549453       0.50549450549450547        0.0000000000000000     
+ I00000041
+           0
+ NumAtWrong:           12
+ Iter, Time, Site              2033782   8.0722318962407558E-002           3          21         561
+ NatNvoidNad        9210           1         159
+ SUM(CountCrystal)        8677
+ CountCrystal        4364        4313           0
+ CountCrystalOld        4275        4216           0
+ diff   89.000000000000000        97.000000000000000        0.0000000000000000     
+ xGesolid  0.47849462365591400       0.52150537634408600        0.0000000000000000     
+ I00000042
+           0
+ NumAtWrong:           12
+ Iter, Time, Site              2082686   8.2691128704405176E-002          15          21         573
+ NatNvoidNad        9402           1         146
+ SUM(CountCrystal)        8881
+ CountCrystal        4472        4409           0
+ CountCrystalOld        4364        4313           0
+ diff   108.00000000000000        96.000000000000000        0.0000000000000000     
+ xGesolid  0.52941176470588236       0.47058823529411764        0.0000000000000000     
+ I00000043
+           0
+ NumAtWrong:           18
+ Iter, Time, Site              2132748   8.4659988968952493E-002           6          12         582
+ NatNvoidNad        9604           1         149
+ SUM(CountCrystal)        9055
+ CountCrystal        4559        4496           0
+ CountCrystalOld        4472        4409           0
+ diff   87.000000000000000        87.000000000000000        0.0000000000000000     
+ xGesolid  0.50000000000000000       0.50000000000000000        0.0000000000000000     
+ I00000044
+           0
+ NumAtWrong:            8
+ Iter, Time, Site              2179252   8.6628819423039641E-002          51          51         591
+ NatNvoidNad        9771           1         163
+ SUM(CountCrystal)        9261
+ CountCrystal        4657        4604           0
+ CountCrystalOld        4559        4496           0
+ diff   98.000000000000000        108.00000000000000        0.0000000000000000     
+ xGesolid  0.47572815533980584       0.52427184466019416        0.0000000000000000     
+ I00000045
+           0
+ NumAtWrong:            7
+ Iter, Time, Site              2230138   8.8597695246611624E-002          21          45         603
+ NatNvoidNad        9979           1         162
+ SUM(CountCrystal)        9436
+ CountCrystal        4747        4689           0
+ CountCrystalOld        4657        4604           0
+ diff   90.000000000000000        85.000000000000000        0.0000000000000000     
+ xGesolid  0.51428571428571423       0.48571428571428571        0.0000000000000000     
+ I00000046
+           0
+ NumAtWrong:           26
+ Iter, Time, Site              2272473   9.0566519143794419E-002          39          39         615
+ NatNvoidNad       10155           2         152
+ SUM(CountCrystal)        9613
+ CountCrystal        4834        4779           0
+ CountCrystalOld        4747        4689           0
+ diff   87.000000000000000        90.000000000000000        0.0000000000000000     
+ xGesolid  0.49152542372881358       0.50847457627118642        0.0000000000000000     
+ I00000047
+           0
+ NumAtWrong:           12
+ Iter, Time, Site              2323634   9.2535365791951138E-002          21           9         627
+ NatNvoidNad       10326           2         166
+ SUM(CountCrystal)        9805
+ CountCrystal        4928        4877           0
+ CountCrystalOld        4834        4779           0
+ diff   94.000000000000000        98.000000000000000        0.0000000000000000     
+ xGesolid  0.48958333333333331       0.51041666666666663        0.0000000000000000     
+ I00000048
+           0
+ NumAtWrong:           15
+ Iter, Time, Site              2373436   9.4504191448816721E-002          48          24         636
+ NatNvoidNad       10520           2         159
+ SUM(CountCrystal)       10013
+ CountCrystal        5032        4981           0
+ CountCrystalOld        4928        4877           0
+ diff   104.00000000000000        104.00000000000000        0.0000000000000000     
+ xGesolid  0.50000000000000000       0.50000000000000000        0.0000000000000000     
+ I00000049
+           0
+ NumAtWrong:           15
+ Iter, Time, Site              2422084   9.6473017168229078E-002          48          18         642
+ NatNvoidNad       10731           2         156
+ SUM(CountCrystal)       10187
+ CountCrystal        5122        5065           0
+ CountCrystalOld        5032        4981           0
+ diff   90.000000000000000        84.000000000000000        0.0000000000000000     
+ xGesolid  0.51724137931034486       0.48275862068965519        0.0000000000000000     
+ I00000050
+           0
+ NumAtWrong:           15
+ Iter, Time, Site              2473602   9.8441910088134826E-002          27          33         657
+ NatNvoidNad       10903           2         158
+ SUM(CountCrystal)       10188
+ CountCrystal        5122        5066           0
+ CountCrystalOld        5122        5065           0
+ diff   0.0000000000000000        1.0000000000000000        0.0000000000000000     
+ xGesolid   0.0000000000000000        1.0000000000000000        0.0000000000000000     
+ I00000050
+           0
+ NumAtWrong:           15

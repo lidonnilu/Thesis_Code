@@ -1,0 +1,1 @@
+growth_rate [micron/hour] = 819.423846

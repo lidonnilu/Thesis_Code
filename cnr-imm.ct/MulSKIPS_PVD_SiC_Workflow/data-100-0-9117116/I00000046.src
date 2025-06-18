@@ -1,0 +1,14 @@
+ load xyz I00000046.xyz
+ color temperature
+ set background white
+ set boundbox true
+ zoom 140
+ rotate x 41
+ rotate y 4
+ spacefill 2
+ color axes black
+ wireframe 2
+ color atom green
+ wireframe 12
+ color atom purple
+ set bondmode and
