@@ -146,3 +146,9 @@ pip install pandas tifffile numpy h5py
 - Ensure all paths are correctly configured before execution.
 - TIFF files should contain custom tags for full metadata extraction.
 - The instrument metadata is hardcoded into the `excel_to_json.py` and can be adjusted as needed.
+
+---
+
+## License
+
+Check the file LICENSE
